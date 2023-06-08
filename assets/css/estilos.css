@@ -9,6 +9,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  border-top: 30% #373a3c;
+  
 }
 
 /* Mis trabajos */
@@ -33,7 +35,7 @@ body {
   }
 
   .navbar-brand{
-    width: 100px;
+    width: 50px;
   }
 
 }
